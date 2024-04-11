@@ -1,9 +1,13 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import sys
 
 # 時系列データAとB（仮のデータ）
 #data_A = np.array([0, 0, 1, 0, 0, 1, 0, 0, 1, 0])
 #data_B = np.array([0, 0, 0, 1, 0, 0, 1, 0, 0, 1])
+# read csv with numpy
+with open(sys.argv[1], "r") as f:
+a=f.read()
 
 # 時間幅dtを設定
 dt = 1  # 仮に1とします（実際のデータに合わせて変更してください）
