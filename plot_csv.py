@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import sys
-from numpy import genfromtxt
+from numpy import genfromtxt # csv reading
 
 # 時系列データAとB（仮のデータ）
 #data_A = np.array([0, 0, 1, 0, 0, 1, 0, 0, 1, 0])
@@ -16,6 +16,8 @@ dt = 1  # 仮に1とします（実際のデータに合わせて変更してく
 
 # 時間軸を設定
 x=range(0,10)
+
+# plot 10 signals
 for i in range(0,10):
   plt.plot(x, at[i])
 plt.show()
