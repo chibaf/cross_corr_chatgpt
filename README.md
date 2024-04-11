@@ -1,6 +1,6 @@
 # cross_corr_chatgpt
 
-## compute cross correlation from csv with numpy
+## compute cross correlation from csv with numpy, advised by ChatGPT
 
 HNGN387_240304.py: original code
 
