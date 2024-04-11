@@ -2,7 +2,7 @@
 
 ## compute cross correlation from csv with numpy, advised by ChatGPT
 
-HNGN387_240304.py: original code
+HNGN387_240304.py: original code by M. Kinoshita
 
 plot_csv.py: plot csv data
 
