@@ -16,6 +16,8 @@ cross_corr_numpy.py: read cvs, compute cross-correlation and plot
 
 input_csv.nb: generate input data (input.csv) / mathematica code
 
+input_csv.nb.pdf: showing mathematica notebook pdf of input_csv.nb
+
 input.csv: input data
 
 ## ref
