@@ -11,6 +11,9 @@ plot_csv.py: plot csv data
 
 cross_corr_numpy.py: read cvs, compute cross-correlation and plot
 
+<img width="640" alt="Screenshot 2024-04-11 at 22 26 38" src="https://github.com/chibaf/cross-correlation_fft__from_csv/assets/1296728/3364be6a-ad21-4049-b29a-ca99726c4e9e">
+
+
 input_csv.nb: generate input data (input.csv) / mathematica code
 
 input.csv: input data
