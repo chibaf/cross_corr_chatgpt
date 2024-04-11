@@ -7,7 +7,7 @@ cross_corr_numpy.py: read cvs
 
 input_csv.nb: generate input data
 
-input.csv
+input.csv: input data
 
 ## ref
 
