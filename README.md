@@ -11,7 +11,7 @@ usage: plot_csv.py input.csv
 <img width="640" alt="Screenshot 2024-04-11 at 22 26 26" src="https://github.com/chibaf/cross-correlation_fft__from_csv/assets/1296728/1f8b2e51-517f-4798-a47b-f2b9b8db567b">
 
 
-cross_corr_numpy.py: read cvs, compute cross-correlation and plot for 0th and 4th signal
+cross_corr_numpy.py: read cvs, compute cross-correlation and plot for second and fourth signals
 
 usage: cross_corr_numpy.py input.csv
 
