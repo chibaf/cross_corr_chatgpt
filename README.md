@@ -5,7 +5,7 @@ HNGN387_240304.py: original
 
 cross_corr_numpy.py: read cvs
 
-input_csv.nb: generate input data
+input_csv.nb: generate input data (input.csv) / mathematica code
 
 input.csv: input data
 
